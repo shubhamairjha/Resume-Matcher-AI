@@ -1,0 +1,402 @@
+[
+  {
+    "text": "AINE AI Education: A Bachelor's degree in Computer Science, Data Science, Engineering, or a related quantitative field. * Experience: 2+ years of professional, non-internship experience in an AI Specialist, Data Scientist, or Machine Learning Engineer role. * Hands-on experience in Python, SQL, and Excel. * Strong exploratory data analysis / EDA skills \u2014 ability to identify patterns, anomalies, and insights from complex datasets. * Experience in end-to-end machine learning model development \u2014 data analysis, feature engineering, hyperparameter tuning, and validation \u2014 with working knowledge of algorithms such as Random Forest, XGBoost, and SVM.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Accenture Must have a degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field. A Ph.D. is highly desirable. \u2022 strong communication skills, with the ability to effectively convey complex technical concepts to a diverse audience. \u2022 You possess a proactive mindset, with the ability to work independently and collaboratively in a fast-paced, dynamic environment.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "BNP Paribas \u2022 Master\u2019s degree (or equivalent) in Computer Science, Engineering, Data Science or a related discipline. \u2022 Minimum 6 years of relevant experience, including at least 4 years of professional Python development (object-oriented programming, decorators, performance optimisation, security). \u2022 Strong Python environment management (uv, pip, mamba/micromamba). \u2022 Proven MLOps experience: model versioning, deployment, CI/CD, artifact handling. \u2022 Containerisation and orchestration with Docker and Kubernetes (scaling, resource management). \u2022 Advanced CI/CD pipelines using Jenkins and/or GitLab CI/CD. \u2022 Linux system administration and Bash scripting.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Beroe Inc \u2022 Bachelor\u2019s degree in computer science, Data Science, or a related field; master\u2019s preferred. \u2022 At least 3 years of experience in AI development or machine learning projects. \u2022 Strong programming skills in Python, and familiarity with AI libraries such as TensorFlow, PyTorch, and Scikit-learn. \u2022 Experience with data management and data-driven decision making. \u2022 Excellent analytical and problem-solving abilities. \u2022 Effective communication skills, capable of presenting complex technical details to non- technical stakeholders. \u2022 Experience in deploying AI solutions in cloud environments (AWS, Azure, Google Cloud). \u2022 Practical knowledge of software development practices and DevOps tools. \u2022 Prior work in an Agile development environment.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Clinikally (YC S22) Python Skills: You should be very comfortable with Python and async programming. \u2022 LLM Experience: You have used APIs from OpenAI, Anthropic, or Gemini to build more than just a simple chatbot. \u2022 Agent Knowledge: You understand how to give an AI tools (functions) to call so it can perform real tasks. \u2022 Vector Databases: Basic experience with Pinecone, FAISS, or similar tools for searching through product data.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Contineu \u2022 0\u20132 years, with one thing you've built that proves depth \u2014 a project, paper, competition (Kaggle, ICPC, research), or portfolio. We care more about how deep you went on one thing than how many things you've touched. \u2022 Strong programming fundamentals \u2014 data structures, algorithms, complexity. You can reason about why your code is correct and what it costs. \u2022 Strong ML Fundamentals. You can explain how the methods you've used actually work. \u2022 Bias to action. Fast iteration, low ego, comfortable being wrong quickly and moving on. \u2022 Bonus: hands-on with 3D, computer vision, or geometry \u2014 point clouds, multi-view geometry, camera models, SLAM, registration, anything in this space.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Entropik \u2022 2-3 years of experience in AI/ML engineering, with hands-on experience in Generative AI and LLM applications. \u2022 Strong programming skills in Python and SQL. \u2022 Deep understanding of Machine Learning, Deep Learning, NLP and LLM architectures. \u2022 Experience with RAG, prompt engineering, embeddings, vector databases, and AI agents. \u2022 Proficiency in frameworks such as PyTorch, LangChain, LangGraph, and LlamaIndex. \u2022 Experience with APIs, microservices, Docker, Kubernetes, and cloud platforms (AWS, Azure, or GCP).",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Gravitix T ech \u2022 Experience using AI tools (ChatGPT, Claude, Midjourney, etc.) \u2022 Basic knowledge of Python or scripting \u2022 Understanding of NLP (Natural Language Processing) \u2022 Experience in content writing, copywriting, or data annotation \u2022 Familiarity with prompt optimization techniques",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "H2O.ai \u2022 2\u20135 years of experience in AI, machine learning, data science, or software engineering roles. \u2022 Strong understanding of predictive ML (feature engineering, training, evaluation, interpretation). \u2022 Experience building and deploying ML or AI applications in production or production-like environments. \u2022 Exposure to GenAI: LLMs, SLMs, RAG, prompt engineering, or agentic systems. \u2022 Strong Python programming and software engineering fundamentals (testing, debugging, version control, CI/CD). \u2022 Experience building APIs or backend services. \u2022 Basic understanding of cloud platforms and MLOps/LLMOps concepts. \u2022 Good communication and teamwork skills.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Jash Data Sciences \u2022 Strong Python programming skills with hands-on project experience, Git proficiency, and a basic understanding of CUDA \u2022 Expertise in Deep Learning architectures (Transformers, CNNs, RNNs) alongside a strong theoretical understanding of foundational ML algorithms (GBMs, Random Forests) \u2022 Deep proficiency in PyTorch or TensorFlow, with a strong emphasis on custom layer implementation and neural network training loops \u2022 Hands-on experience with modern training paradigms, including Self-supervised Learning, Contrastive Learning, and advanced Transfer Learning \u2022 Experience with NLP, Computer Vision, or Time Series Analysis",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Keywords Studios \uf0b7 Strong programming skills in Python \uf0b7  Understanding of Data Structures and Algorithms \uf0b7  Knowledge of Machine Learning fundamentals \uf0b7  Understanding of Natural Language Processing (NLP) concepts: \u2022 Tokenization \u2022 Embeddings \u2022 Text Classification \u2022 Named Entity Recognition (NER) \u2022 Semantic Search \u2022 Transformer Models \uf0b7  Understanding of Generative AI concepts: \u2022 Large Language Models (LLMs) \u2022 Prompt Engineering \u2022 RAG (Retrieval-Augmented Generation) \u2022 Fine-tuning concepts \u2022 AI Agent fundamentals \uf0b7  Familiarity with AI/ML frameworks: \u2022 PyTorch or TensorFlow \u2022 Hugging Face Transformers \u2022 LangChain, LlamaIndex, or similar frameworks",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Mercor \u2022 2+ years of professional machine learning engineering experience. \u2022 Experience building production ML systems, model deployment infrastructure, LLM applications, or AI-powered products. \u2022 Regular use of AI coding agents such as Cursor, Claude Code, Codex, Windsurf, Gemini CLI, or similar tools. \u2022 Ability to evaluate model-generated machine learning implementations and technical tradeoffs.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Neilsoft Advanced Machine Learning Experience in: \u2022 Deep learning model development, Representation learning, Transformer architectures, Transfer learning, Multimodal ML systems Computer Vision Experience with: \u2022 Object detection, Image segmentation, Document layout analysis, OCR pipelines NLP / LLM Systems Experience with: \u2022 Transformer-based models, Retrieval-Augmented Generation (RAG), Embedding models, Semantic search systems MLOps Experience building production ML systems using: \u2022 ML experiment tracking (MLflow / Weights & Biases), Model versioning, CI/CD pipelines, Monitoring and retraining pipelines Data Systems \u2022 Vector databases, Data pipelines, Feature engineering systems",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "PwC Acceleration Center \u2022 Strong Python development experience for AI and backend services. \u2022 Hands-on experience with agentic AI frameworks (LangChain, LangGraph, CrewAI, AutoGen, or similar). \u2022 Experience building APIs using FastAPI. \u2022 Working knowledge of AWS cloud services, including AWS Bedrock. \u2022 Experience with Docker and Kubernetes for containerized deployments. \u2022 Familiarity with Redis / ElastiCache for caching or state management. \u2022 Experience with prompt engineering, prompt testing, and optimization. \u2022 Exposure to guardrails, observability, and evaluation for LLM-based systems. \u2022 Proficiency with GitHub workflows and collaborative development practices.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "SettleMint India \u2022 Bachelor's or master's degree in computer science, Artificial Intelligence, Data Science, or a related field. \u2022 3 years of experience in Python development and AI/ML projects. \u2022 Strong knowledge of Generative AI, LLMs, Prompt Engineering, and RAG architectures. \u2022 Hands-on experience with Python, FastAPI, LangChain, LangGraph, LlamaIndex, or similar frameworks. \u2022 Experience with vector databases such as Pinecone, Weaviate, ChromaDB, or FAISS.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Talentgigs Experience: 5 \u2013 9 Years Domain: Revenue Cycle Management (RCM) Location: Chennai Work Mode: Onsite (5 Days a Week) Role Overview We are seeking a Machine Learning Engineer with Healthcare RCM expertise to develop AIdriven solutions for Claims Scrubbing and Denial Prediction. The ideal candidate will leverage machine learning techniques and healthcare claims data to improve clean claim rates, reduce denials, and optimize reimbursement outcomes. Key Responsibilities \u2022 Develop and optimize machine learning models for denial prediction and claims risk scoring. \u2022 Build AI-powered claims scrubbing solutions using payer rules, edits, and historical claims data.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "The Inventar If you are a self-motivated individual with a strong foundation in Python and a keen interest in AI technology, this internship opportunity at The Inventar company is perfect for you. Join us in shaping the future of AI technology and make a real impact on the world. Apply now and be part of our dynamic team!",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Turing \u2022 Minimum 3+ years of overall experience as a Machine Learning Engineer or Software Engineer (ML-focused). \u2022 Strong proficiency in Python for machine learning and data workflows. \u2022 Hands-on experience with model training, evaluation, and inference pipelines. \u2022 Solid understanding of machine learning fundamentals (supervised/unsupervised learning, evaluation metrics, optimization). \u2022 Experience working with ML frameworks (e.g., PyTorch, TensorFlow, JAX, or similar). \u2022 Ability to understand, navigate, and modify complex, real-world ML codebases. \u2022 Experience writing readable, reusable, and maintainable production-quality code.",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Wiser AI \u2022 3 \u2013 6 years of experience in machine learning, AI, or data science \u2022 Strong Python skills (scikit-learn, TensorFlow, PyTorch, Pandas, NumPy) \u2022 Experience building recommendation systems or working with eCommerce data \u2022 Experience integrating AI models with PHP/Laravel applications \u2022 Familiarity with Shopify ecosystem and personalization is a bonus \u2022 Ability to explain ML logic to non-technical teams \u2022 Bonus: Experience with AWS, S3, SageMaker, or model hosting APIs",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "Optum India \u2022 B.E./B Tech/MCA/M Tech / Bachelor's degree Computer Science, Computer Engineering, or other related discipline (16+ years of education, correspondence courses are not relevant) from NIT or IIT \u2022 Graduating in 2026 from premier institutes like NIT or IIT \u2022 Basic understanding of AI/ML concepts and interest in learning more (e.g., NLP, computer vision, LLMs). \u2022 Experience/Familiarity with backend development using Python or Java \u2022 Experience/Familiarity to front-end development using React.js or similar frameworks \u2022 Experience/Familiarity with relational databases (e.g., SQL Server, Oracle) or NoSQL systems",
+    "label": "AIML jobs"
+  },
+  {
+    "text": "ATS Studio \u2022 Assist in designing and developing responsive WordPress or Shopify websites and Flutter applications. \u2022  Customize themes, templates, and plugins and Flutter UI components to meet client specifications. \u2022  Update website content, including text, images, and videos. \u2022  Set up and maintain e-commerce functionalities, such as product listings and payment gateways and others. \u2022  Optimize website performance and implement basic on-page SEO techniques. \u2022  Identify and resolve technical issues to ensure optimal website functionality. \u2022  Develop custom WordPress plugins or Flutter modules as per project requirements.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Accenture \u2022 Must To Have Skills: Proficiency in SAP Ariba. \u2022  Experience with full stack development including front-end and back-end technologies. \u2022  Strong understanding of cloud computing principles and agile development methodologies. \u2022  Ability to design and implement scalable and maintainable software solutions.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "AirBills \u2022 Strong Front-End Development skills, including modern JavaScript frameworks/libraries (e.g., React, Vue, or similar) and component-based architectures. \u2022 Proficiency in Responsive Web Design, including HTML5, CSS3 (or CSS-in-JS, preprocessors), and building interfaces that work across browsers and devices. \u2022 Solid foundation in Web Development and Software Development fundamentals, such as version control (Git), testing, debugging, performance optimization, and RESTful API integration. \u2022 Familiarity with Back-End Web Development concepts and collaboration with backend services (e.g., Node.js, Python, or similar) is a plus.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "BIRKENSTOCK \u2022 University degree in computer science or equivalent with good knowledge of HTML5, CSS and JavaScript. \u2022 3-5 years of professional experience as Solution Engineer, E-Commerce Specialist or Project lead, with focused emphasis on Salesforce Commerce Cloud (e.g. Demandware), or an equivalent position. \u2022 Familiarity with some additional programming languages & frameworks (Java, C, PHP, Python, shell scripting), databases (MySQL, SQLite, Elastic Search), services (Amazon Web, Google Analytics and Tag Manager) and concepts (client-server, REST APIs, OOP, computer architecture, design patterns).",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "BVR T echnosoft Solutions Are you a Full Stack Development enthusiast looking to kickstart your career with a dynamic tech company? BVR Technosoft Solution is seeking a talented intern who is proficient in Node.js, React, MongoDB, MySQL, HTML, CSS, JavaScript, AngularJS, and PHP. As a key member of our team, you will have the opportunity to work on exciting projects and gain hands- on experience in the world of technology.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Citi \u2022 4 - 6 years of relevant experience Java Full Stack Development with React \u2022 Hands on programming Experience on Java 8+, Spring Boot Microservices. \u2022 Hands on experience on UI technologies like JavaScript, HTML, Ag-Grid framework React JS. \u2022 Excellent Knowledge on Cloud(Docker, Kubernetes, Openshift) \u2022 Intermediate level experience in Applications Development role",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "DashCreators \u2022 3 to 5 years of web development experience with a strong portfolio of live websites \u2022 Proficiency across WordPress, Shopify, Webflow, and Framer \u2022 Solid command of HTML, CSS, and JavaScript \u2022 Hands on experience with on-page SEO and page speed optimisation \u2022 Ability to work independently and manage projects without hand holding",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Dentsu Global Services \u2022 Strong proficiency in Node.js and server-side JavaScript. \u2022 Experience with cloud services (Azure, Google Cloud, or AWS). \u2022 Experience with building automation workflows \u2022 Proficiency in working with APIs and integrating third-party services. \u2022 Familiarity with Adobe Creative Cloud, Adobe Photoshop, and Adobe Firefly. \u2022 Knowledge of front-end technologies (HTML, CSS, JavaScript) and front-end Dev frameworks (React, Angular, or Vue.js).",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "DigiDxDoc \u2022 Strong foundation in Software Development and Full-Stack Development, with an understanding of modern web architectures. \u2022 Front-End Development skills, including proficiency in HTML, JavaScript, and Cascading Style Sheets (CSS). \u2022 Back-End Web Development experience using server-side frameworks, RESTful APIs, and database integration. \u2022 Basic knowledge of version control tools (e.g., Git) and collaborative development workflows. \u2022 Ability to learn quickly, solve problems independently, and work effectively in a cross- functional team.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Globotex Private Limited \u2022 Strong experience in front-end development \u2022 Proficiency in HTML, CSS, JavaScript, and modern frameworks such as React or Angular \u2022 Understanding of responsive design and UI/UX principles \u2022 Experience integrating APIs and backend services \u2022 Strong problem-solving and debugging skills \u2022 Familiarity with version control systems such as Git",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Google Operations Center Excellent English communication (both written and oral), strong problem-solving approach with the ability to absorb complex technical concepts and communicate them to a non-technical audience. \u2022 4+ years of technology experience and knowledge where you have been exposed to frontend (web, mobile, others), dashboards, reporting, scripting, databases, etc. and have built/executed end to end solutions \u2022 2+ years of proven experience of building business automation products/tools using various technologies like AI/ML, GCP or any other process automation technology.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "GrowthGear Good hands-on experience with React JS Good understanding of JavaScript, HTML, and CSS Good working knowledge of Python Understanding of APIs, JSON, client-server architecture, and async workflows Basic understanding of databases and data handling Strong problem-solving ability and willingness to learn fast",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "M0 \u2022 Extensive experience with system design, Backend, and microservice architecture and design patterns for building full-stack scalable and responsive web applications. \u2022 Experience in building backends using Nest.js, and Microservices framework. \u2022 Experience working with Typescript and strong proficiency in frontend development using HTML, Tailwind, and JavaScript.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "NoBrokerage.com Desired Skills and Experience Next.js, MERN, MySQL, MongoDB, Node.js, React",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Sony India \u2022 Java \u2022  Spring \u2022  Rest Api \u2022  ReactJS \u2022  TypeScript \u2022  AWS.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Sparrow RMS 2+ years of professional experience in full stack or web development. \u00b7 Strong proficiency in React.js and modern JavaScript (ES6+). \u00b7 Expertise in C# and .NET Core (ASP.NET Core) framework. \u00b7 Hands-on experience with Redux and TanStack Query (React Query). \u00b7 Strong experience with Tailwind CSS and TypeScript for responsive UI development. \u00b7 Solid knowledge of REST API design, asynchronous programming, and API integration.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Tata Consultancy Services \u2022 ,Must have 6+ years of experience in full-stack development with a strong focus on Java and relevant AWS exposure. \u2022 Strong proficiency in Core Java, J2EE, Spring, and Spring Boot. \u2022 Experience with JavaScript, HTML, CSS, and a front-end framework (Angular or React). \u2022 Hands-on experience with key AWS services and an understanding of cloud architecture is essential.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "United Airlines \u2022 Bachelor\u2019s degree or higher in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems and/or equivalent work experience \u2022 2 + years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use \u2022 Excellent knowledge of object-oriented systems design and application development \u2022 Strong knowledge of Java, SQL and Design Patterns",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Wipro Experience in Java full stack including Microservices, Angular, AngularJS, AWS, Spring, SpringBoot, SpringBatch, Pl/SQL, Oracle, PostgreSQL, Junit, Mockito. Experience in Java, SpringBoot, Cloud, REST API, API Gateway, Kafka and API development life cycle. Experience of building cloud native microservices and APIs through an agile delivery team Experience of designing standards and follow design patterns and driving end to end design changes cross-platforms. Experience of working with code repositories, bug tracking tools as well as experience of designing and implementing APIs",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "hackajob \u2022 3+ years of hands-on experience in designing and developing medium to large-scale Java-based enterprise applications, with strong expertise in Spring Boot and microservices architectures. \u2022 Deep proficiency in building scalable, resilient, and high-performance distributed systems using Java and modern microservices design principles. \u2022 Extensive experience with source control and collaboration tools such as Git, including branching strategies and code versioning best practices. \u2022 Strong hands-on experience in CI/CD pipelines, enabling automated build, test, and deployment workflows across environments. \u2022 Proven experience working with modern testing frameworks including Mockito, Selenium, and Cucumber, ensuring robust unit, integration, and end-to-end test coverage.",
+    "label": "Full stack jobs"
+  },
+  {
+    "text": "Amazon \u2022 3+ years of non-internship professional software development experience \u2022  2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience \u2022  3+ years of Video Games Industry (supporting title Development, Release, or Live Ops) experience \u2022  Experience programming with at least one software programming language",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Augle AI \u2022 Bachelor\u2019s or Master\u2019s degree in Computer Science, Software Engineering, or a related field, or currently in the final year of a Bachelor\u2019s program. \u2022 Experience: 0\u20132 years. Open to freshers with strong project backgrounds and technical expertise. \u2022 Proficiency in Python \u2022 Experience with frontend frameworks: React, Next.js, Angular, or PyQt5. \u2022 Experience with backend frameworks: Node.js, Django, Typescript or FastAPI.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "BT Group 3\u20137 years of experience in SAP S2P / Procurement / Finance transformation roles. \u2022  Strong functional knowledge of Source to Pay processes. \u2022  Hands on experience with: \u2022  SAP S/4HANA \u2022  SAP MM \u2022  SAP Ariba \u2022  SAP Concur \u2022  VIM (OpenText or SAP) \u2022  Good understanding of invoice processing, procurement controls, and financial postings. \u2022  Strong documentation, analytical, and stakeholder communication skills.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Barclays \u2022 Targeted design activities that apply an appropriate workload placement strategy and maximize the benefit of cloud capabilities such as elasticity, serverless, containerization etc. \u2022 Strong proficiency in Java 11+/17, Spring Boot, Spring Cloud, and Microservices architecture. \u2022 Experience in designing and developing event-driven systems. \u2022 Best practice designs incorporating security principles (such as defense in depth and reduction of blast radius) that meet the Bank\u2019s resiliency expectations. \u2022 Solutions that appropriately balance risks and controls to deliver the agreed business and technology value.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Cisco \u2022 Experience: 5+ years of software engineering experience, including exposure to AI/ML or AI-driven automation initiatives. \u2022  Hands-on experience operating or automating OpenStack-based private cloud environments. \u2022  Strong programming skills in Python. \u2022  Experience with infrastructure automation tools such as Ansible or puppet. \u2022  Experience working with Kubernetes for cluster management, container orchestration, and platform services. \u2022  Experience with Docker containerization and microservices-based architectures. \u2022  Experience developing AI or LLM-powered operational assistants, chatbots, or internal developer tools.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "DiligenceVault \u2022 BTech in computer science, or equivalent \u2022 2+ years of experience conducting regression, functional, UI-UX, API, Database, and performance tests in an enterprise software development environment \u2022 Solid knowledge of test automation frameworks, with hands-on experience or deep conceptual familiarity using Playwright (or similar modern frameworks).",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Kotak Mahindra Bank \u2022 Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or related field. \u2022  Proficiency in Java, Spring Boot, and RESTful API development. \u2022  Solid understanding of data structures, algorithms, and object-oriented programming. \u2022  Experience with relational databases (e.g., PostgreSQL, MySQL) and version control (Git). \u2022  Familiarity with cloud platforms (AWS, GCP, or Azure) and containerization (Docker, Kubernetes).",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Microsoft \u2022 Bachelor's Degree in Computer Science, or related technical discipline and 1-2 years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python or equivalent experience. \u2022 Experience on python, pytorch, large language model, generative AI. \u2022 Experience with distributed systems design and implementation \u2022 Proficiency in Agile development practices and Continuous Integration/Continuous Deployment (CI/CD)",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Noventiq \u2022 Bachelor\u2019s degree in computer science, information technology, or a similar field. \u2022  Previous experience working as a Full Stack Developer. \u2022  In-depth knowledge of JavaScript, CSS, HTML, and front-end languages. \u2022  Knowledge of React tools including React.js, Webpack, Enzyme, Redux, and Flux. \u2022  Experience with user interface design. \u2022  Knowledge of performance testing frameworks including Mocha and Jest.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Porch Group \u2022 Bachelor's or master's degree in computer science, engineering, or a related field (or four years of equivalent work experience) \u2022 Experience: 6+ years of software development experience. \u2022 Technical experience: \u2022 Experience with JavaScript and its frameworks (React, Vue, Angular, etc.) \u2022 Proficiency with SQL, preferably PostgreSQL \u2022 Production JVM language experience, preferably Scala \u2022 PostgreSQL expertise \u2022 Development Tools: Experience with development tools such as Git, Jenkins, Docker, etc.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Red Hat An engineering degree or higher, or equivalent in computer science or a related field. Candidates must have the legal rights to work in India without the need for visa sponsorship 4+ years of experience writing code in programming languages such as Go / Java or Python etc. Experience with containers and kubernetes Problem solving and troubleshooting skills with Root Cause Analysis experience Bachelor's degree in computer science or equivalent",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Round Digital \u2022 Strong foundation in Computer Science, including algorithms, data structures, and software engineering principles. \u2022 Hands-on experience in Software Development and Programming using modern languages and frameworks (e.g., Java, C#, Python, JavaScript/TypeScript). \u2022 Proficiency in Back-End Web Development, including RESTful APIs, microservices, and database integration. \u2022 Solid understanding and practical application of Object-Oriented Programming (OOP) concepts and design patterns. \u2022 Experience with cloud platforms (AWS, Azure, or GCP) and familiarity with CI/CD pipelines and version control (Git).",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "SentinelOne \u2022 2+ years of software engineering experience with a focus on backend development, distributed systems, or data/event processing \u2022 Strong proficiency in Go, Python, or JavaScript, with a solid grasp of software engineering best practices \u2022 Hands-on experience with at least one public cloud (AWS, GCP, or Azure) \u2022 Experience with Kubernetes-based deployments and containerization (Docker)",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Tyler T echnologies \u2022 Strong knowledge of .NET platform, C#, OOPs, and SOLID principles \u2022 Experience with .NET MVC, Angular (v8 or later), jQuery \u2022 Solid understanding of HTML, JavaScript, AJAX, CSS \u2022 Knowledge of architecture principles, design patterns, and scalable systems \u2022 Intermediate Git skills (branching strategies, collaboration workflows) \u2022 Hands-on experience with SQL databases, schema design, and optimization \u2022 Experience with cloud platforms (AWS/Azure) and APIs",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Uber \u2022 Bachelor's or Master's in Computer Science, Statistics, or a related field or Equivalent Experience \u2022 Minimum 3 years of experience in industry with a strong focus on machine learning and optimization. \u2022 Experience with ML packages such as Tensorflow, PyTorch, JAX, and Scikit-Learn. \u2022 Solid understanding of statistical analysis and feature engineering techniques. \u2022 Excellent communication and collaboration skills. \u2022 Ability to work independently and take ownership of projects. \u2022 Experience using SQL in a production environment.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Wayfinder Solutions Pvt ltd. \u2022 Strong proficiency in Python 3, Java, Rust, or TypeScript. \u2022 Experience with C++ or Go is a strong advantage. \u2022 Excellent understanding of: \u2022 Algorithms \u2022 Data Structures \u2022 Software Design Principles \u2022 Performance Optimization",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "YES BANK 5\u201312 years of experience in Banking/Financial Services, with at least 3+ years in Retail Assets technology. \u2022 Prior experience working with Indian banks, NBFCs, or fintech platforms is preferred. Soft Skills \u2022 Strong analytical and problem-solving abilities. \u2022 Excellent communication skills for stakeholder and vendor interactions. \u2022 Ability to work in fast-paced, cross-functional environments. \u2022 Detail-oriented, structured, and delivery-focused approach.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "Zoom Hold a BS/MS in Computer Science or related field, or equivalent practical experience. Demonstrate 3\u20135 years of full-stack or backend software development experience with strong coding skills. Apply backend technologies including Java, Spring Boot, Node.js, or Python in production environments. Write unit tests using frameworks like JUnit or Cucumber to ensure code quality.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "eBay 5+ years of experience in business intelligence, reporting, or data analytics roles. \u2022 Hands-on experience with: \u2022 SAP Analytics Cloud (SAC) for dashboarding and reporting \u2022 Looker, including LookML modeling and dashboard development \u2022 Strong SQL skills and experience working with relational data models. \u2022 Experience building interactive dashboards and data visualizations for business users. \u2022 Good understanding of data modeling concepts and semantic layers. \u2022 Strong analytical and problem-solving skills with attention to detail.",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "hackajob \u2022 Strong hands-on experience in Python and PySpark-based development \u2022 Solid understanding of Linux environments with scripting expertise \u2022 Experience working with scheduling/orchestration tools such as TWS and Airflow \u2022 Proficient in Git and GitLab for version control and CI/CD workflows \u2022 Good exposure to AWS ecosystem, including Glue, Lambda, S3, Lake Formation, and Athena",
+    "label": "Software engineer jobs"
+  },
+  {
+    "text": "AGCO Corporation 7+ years of experience in data science and analytics with hands-on model development and deployment. \u2022 Proven expertise in generative AI (LLMs, GANs, VAEs) and advanced machine learning techniques. \u2022 Strong programming skills in Python and proficiency with ML/DL frameworks (TensorFlow, PyTorch). \u2022 Familiarity with big data tools (Spark, Hive, Hadoop), cloud platforms (Azure/AWS/GCP), and MLOps practices. \u2022 Excellent communication and visualization skills, with the ability to translate technical insights into business value",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "BBC Studios Experience in a data science or closely aligned role. \u2022 A degree in mathematics, statistics, computer science or related field. \u2022 A hands-on approach to problem solving, from understanding the impact down to mathematical details. \u2022 Good programming skills with Python. \u2022 Good working knowledge of SQL and experience querying large datasets. \u2022 Experience building machine learning models and deploying them into production. \u2022 Experience interacting with stakeholders and translating business problems into practical solutions.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Bell \u2022 Bachelor's degree in Computer Science, Statistics, Mathematics, Data Science, or a related field. Relevant experience may be considered in lieu of a degree. \u2022 3+ years of experience in a data science or analytics role. \u2022 Cloud foundational certification (e.g., AWS Certified Cloud Practitioner, Azure Fundamentals, Google Cloud Certified Professional Cloud Architect). Specify preferred certifications if applicable. \u2022 Advanced proficiency in SQL and at least one scripting language (Python preferred).",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Exyte \u2022 Level 8 Degree or higher in Science, Statistics, Mathematics, Computer Science, Economics, or a related field. \u2022 Proficiency in SQL, Python, or R for data manipulation and analysis. \u2022 Experience with data visualization tools (e.g., Power BI, Tableau). \u2022 Strong understanding of statistical methods and data modeli",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "FedEx \u2022 Master\u2019s Degree or equivalent in computer science, operations research, statistics, applied mathematics or related quantitative discipline. Directly related PhD preferred. \u2022 Five to Seven (5-7) years\u2019 work experience in applying data science (machine learning, artificial intelligence, statistical analysis), operations research (optimization, algorithms, mathematical modeling), and data analytics modeling to decrease cost, increase profitability, and improve customer experience. \u2022 Extensive knowledge in advanced data science, statistical analysis, and machine learning methods, including the iterative development of analysis pipelines to provide insights at scale.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "F\u00e9lix \u2022 Experience: 5+ years of experience in a hands-on data science role, building and deploying machine learning models. \u2022 Leadership: Proven experience leading complex data science projects from inception to production, including setting technical direction and guiding peers. \u2022 Python: Expert-level Python for data analysis and modeling (pandas, scikit-learn, etc.). \u2022 SQL: Advanced SQL skills for complex data extraction and manipulation.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Hire Feed Proficiency in Python, SQL, and experience with data pipeline frameworks such as Apache Airflow or similar. \u2022 Experience with cloud platforms (AWS, GCP, or Azure) and data warehousing solutions (Snowflake, BigQuery, or Redshift). \u2022 Strong understanding of ETL processes and data modeling techniques. \u2022 Familiarity with stream processing technologies (Kafka, Spark Streaming) is a plus. \u2022 Ability to work independently in a remote environment with strong problem-solving skills.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Honeywell T echnologies RESPONSIBILITIES \u2022  Strong experience in data analytics, reporting, or BI development \u2022  Experience working in a GBS/shared services environment is preferred \u2022  Proven track record of delivering end-to-end analytics solutions Education \u2022  Bachelor\u2019s or Master\u2019s Degree in Data Analytics, Computer Science, Engineering, or a related discipline",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Insurity \u2022 1-3 years of experience in data science or predictive modeling \u2022 Strong understanding of GLM and ML algorithms (GBM, XGBoost, Random Forest) \u2022 Experience with Python and relevant libraries (scikit-learn, pandas, NumPy) \u2022 Familiarity with AWS tools, especially SageMaker and EC2 \u2022 Experience with feature engineering and model evaluation techniques \u2022 Ability to translate business problems into analytical solutions \u2022 Strong communication skills and ability to work collaboratively in a cross-functional team \u2022 Bachelor's or Master's degree in a quantitative field (Statistics, Mathematics, Computer Science, Data Science) \u2022 Active listening \u2022 Analytical and critical thinking",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Mastercard \u2022 Bachelor\u2019s degree in Data Science, Statistics, Mathematics, Computer Science, or another quantitative discipline such as Engineering, Economics, or Physics \u2022  Experience in applying data science and machine learning to solve real business problems \u2022  Solid foundation in statistics, analytics, and core machine learning concepts \u2022  Experience with Python and SQL; familiarity with tools such as Pandas for data manipulation and analysis \u2022  Exposure to large datasets and interest in scalable data processing; familiarity with Spark is a plus",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Microsoft Currently pursuing a Doctorate Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. \u2022 Must have at least one additional quarter/semester of school remaining following the completion of the internship.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "NVIDIA \u2022 5+ years of professional experience in business-centered AI and Data Science, with a demonstrated history of implementing models in production environments. \u2022 Hands-on experience developing custom agents and multi-agent systems; proficiency with AI-native development tools (e.g., Cursor, Claude Code) and agent orchestration frameworks. \u2022 BS/MS/PhD or equivalent experience in Computer Science, Data Science, Electrical/Computer Engineering, Physics, Mathematics, or other Engineering fields. Technical Master\u2019s or Ph.D. with a finance or business background is preferred. \u2022 Strong technical skills, with a proven history of designing, validating, deploying, and maintaining data science models using Python, SQL, & Databricks (or similar).",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Neurealm Data Scientist to join a high-performing engineering team in Chennai. We aren't just experimenting with GenAI, we are actively scaling advanced RAG architectures and multi-agent frameworks in highly complex domains (Legal/Regulatory Tech). If you are a Python wizard who loves the intersection of cutting-edge research and rugged production infrastructure, this is for you.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Oceaneering \u2022 Bachelor\u2019s OR master\u2019s degree in computer science or software Engineer (or related field). \u2022 Technically fluent in programming languages, including C, C++, Java, C# and other object-oriented paradigms. \u2022 Competent and proficient understanding of platforms such as UNIX (Solaris and Linux) and Windows. \u2022 Hands-on software troubleshooting experience.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "PayPal \u2022 Lead the development and implementation of advanced data science models. \u2022 Collaborate with stakeholders to understand requirements. \u2022 Drive best practices in data science. \u2022 Ensure data quality and integrity in all processes. \u2022 Mentor and guide junior data scientists. \u2022 Stay updated with the latest trends in data science.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Saint Laurent \u2022 Master's student in Data Science, Machine Learning, Computer Science, or related field \u2022 Strong Python and SQL skills \u2022 Solid understanding of machine learning fundamentals \u2022 Experience with data manipulation libraries (pandas, scikit-learn, etc.) \u2022 Interest in AI systems, LLMs, or applied machine learning \u2022 Curious, rigorous, and comfortable working with complex datasets",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Sanofi \u2022 Advanced degree (Master's or PhD) in Epidemiology, Biostatistics, Health Informatics, Health Economics, Pharmacoepidemiology, or a closely related quantitative discipline \u2022 Minimum 4-5 years for Master\u2019s degree holder or 2-4 years for Doctoral degree holder of relevant experience in real-world data, commercial analytics, real-world evidence, health outcomes research, fit-for-purpose feasibility assessment, data quality assessment or a related field within the pharmaceutical, biotech, or health technology industry \u2022 Experience in predictive modeling using RWD to identify at risk patient populations with a publication record in peer-review journals \u2022 Experience in patient & healthcare provider segmentation to inform Medical and Commercial strategy \u2022 Demonstrated expertise in epidemiological study design and statistical methods such as propensity score matching, descriptive statistics, regression analysis, predictive modelling. \u2022 Strong proficiency in statistical programming languages: SQL, Python, R, and/or SAS",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Sardine \u2022 7+ years of experience in data science, quantitative modeling, or a data-focused role (product analytics, business analytics) with demonstrated high impact in fraud or risk contexts \u2022 Strong hands-on experience with Python/R and SQL is essential, with Spark being a nice to have \u2022 Expertise in BI tools such as Tableau, Sigma, or Metabase",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Singtel \u2022 University Degree in relevant discipline. \u2022  Experienced in SQL query. \u2022  Experience windows environment, Unix environment. \u2022  Data visualization tool (Tableau, PowerBI, Grafana). \u2022  Good communication and project management skill.",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Uber \u2022 5-7+ years of work experience designing and conducting survey-based research \u2022  Strong communication and collaboration skills, with the ability to present research findings to both technical and non-technical audiences \u2022  Highly proficient in survey analysis skills, including regression analysis, factor analysis, cluster analysis, and conjoint analysis \u2022  Strong coding skills in SQL; Python or R \u2022  Ability to build and scale automated analytical pipelines for recurring global trackers",
+    "label": "data analyst jobs"
+  },
+  {
+    "text": "Alcon \u2022 Bachelor's or master's degree in computer science, Engineering, Physics, Biomedical Engineering, or related field. \u2022 ~3 years relevant experience in this field \u2022 Strong Python scientific programming skills \u2022 Experience using NumPy, SciPy, Matplotlib, and other scientific libraries \u2022 Sound understanding of good software engineering principles \u2022 Ability to write clear and well-documented code",
+    "label": "python jobs"
+  },
+  {
+    "text": "Appglide Solutions \u2022 4+ years experience in python \u2022 4+ years experience in DevOps \u2022 Bachelor\u2019s degree or above in Computer Science / Information Technology \u2022 Exposure to public cloud platforms such as AWS, GCP, and Azure \u2022 Has a solid understanding and can demonstrate through daily tasks how the architecture, design, and data flow of the application they support for purposes of effective script design. \u2022 Can read, develop, debug, and maintain simple to advanced automation scripts/ code Independently",
+    "label": "python jobs"
+  },
+  {
+    "text": "BrezQ \u2022 Bachelor's degree in Computer Science, Information Technology, or a related field. \u2022 2\u20136 years of professional experience in Python development. \u2022 Strong analytical, debugging, and problem-solving skills. \u2022 Excellent communication and teamwork abilities.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Enterprise AI Group \u2022 Python Development Experience: Minimum 3-5 years software engineering experience, including 2+ years of Python development. \u2022 Strong Python skills: You've built backend applications or APIs (FastAPI or similar) and can write clean, efficient code. \u2022 AI/ML enthusiasm: Hands-on experience with machine learning or generative AI (NLP, large language models) \u2013 you've maybe played with GPT APIs and can show us your projects in Github",
+    "label": "python jobs"
+  },
+  {
+    "text": "GoML \u2022 3+ years of experience as a Python Developer \u2022 Strong experience with FastAPI, Django, or Flask \u2022 Proven experience building backend services, APIs, and integrations \u2022 Hands-on experience developing Python packages and SDKs (PyPI, setuptools) \u2022 Solid understanding of OOP principles and software design patterns \u2022 Experience with SQL & NoSQL databases (PostgreSQL, MySQL, MongoDB, Redis)",
+    "label": "python jobs"
+  },
+  {
+    "text": "HRM Group Strong experience in Python development (REST APIs, testing, production-grade systems) Knowledge of Go for backend service development Experience with containerization (Docker): building, optimizing and deploying images Solid experience with Azure cloud services, including container-based workloads and identity management",
+    "label": "python jobs"
+  },
+  {
+    "text": "Highspring \u2022 Python (Pandas, PySpark) \u2022 Databricks / Spark \u2022 ETL / ELT pipeline development \u2022 SQL and relational/non-relational data modeling \u2022 Data orchestration tools (Airflow, ADF, Databricks Jobs, etc.) \u2022 Version control (Git)",
+    "label": "python jobs"
+  },
+  {
+    "text": "Infosys Technology->OpenSystem->Python - OpenSystem->Python Strong experience with data processing libraries: Pandas, NumPy Knowledge of ETL concepts and data pipeline development. Experience working with CSV, JSON, XML, and large datasets. Strong SQL skills and experience with relational databases (e.g., MySQL, PostgreSQL). Experience with API integration and data retrieval. Understanding of data cleaning, validation, and transformation techniques. Basic knowledge of Linux/Unix environments.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Innefu Labs Bachelor\u2019s degree in computer science, Engineering, or related field. 3+ years of experience in Python development, with a strong focus on Core Python. Proven experience in a Senior or Lead Developer role. Proficient in software development best practices, design patterns, and code quality standards. Familiarity with frameworks such as Django or Flask is a plus. Strong problem-solving skills and attention to detail.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Luxoft \u2022 Bachelor's degree in Computer Science, Engineering, or a related field. \u2022 Experience: \u2022 Minimum 3-5 years of experience developing and deploying production-ready Python applications. \u2022 Strong experience with core Python, SQL, and database APIs. \u2022 Experience with Python frameworks (e.g., Django or Flask) is a plus. \u2022 Familiarity with data processing concepts and related technologies (e.g., Kafka, Apache Spark) is beneficial.",
+    "label": "python jobs"
+  },
+  {
+    "text": "MediNex Workforce Basic knowledge of Python programming. * Understanding of object-oriented programming concepts. * Familiarity with SQL, Git, or web frameworks is an advantage. * Strong analytical and problem-solving skills. * Good communication and willingness to learn.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Mercor \u2022 Strong Python skills. \u2022 Experience with APIs, backend systems, and debugging. \u2022 Familiarity with Docker, Linux, and local testing workflows. \u2022 Ability to work with configuration files and deployment pipelines. \u2022 Problem-solving skills and attention to technical detail.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Quik Hire Staffing Proficiency in Python 3.x and experience with frameworks such as Django or Flask. \u2022 Strong understanding of data structures, algorithms, and object-oriented programming principles. \u2022 Experience with RESTful API development and integration with third-party services. \u2022 Familiarity with databases including SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis).",
+    "label": "python jobs"
+  },
+  {
+    "text": "TASC Outsourcing \u2022 Strong proficiency in Python (3.x), including OOP, scripting, and library usage. \u2022 Hands-on experience with Selenium for browser-based automation. \u2022 Solid experience working with APIs \u2014 both consuming and developing REST APIs. \u2022 Experience in building automation bots (RPA-style scripts, scrapers, schedulers). \u2022 Working knowledge of n8n. \u2022 Experience working with or building AI agents using LLMs and agentic frameworks. \u2022 Familiarity with databases (PostgreSQL and SQL). \u2022 Experience with Git / version control.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Talent Complete \u2022 Very good knowledge of Python programming \u2022 Very good knowledge of the above-mentioned areas of responsibility \u2022 Good knowledge of RHEL 9.6 Kickstart and images \u2022 Good knowledge of Red Hat Satellite",
+    "label": "python jobs"
+  },
+  {
+    "text": "T eamSystem \u2022 At least 1 year of experience in software development; \u2022 Solid knowledge of the Python programming language; \u2022 Experience using AI-powered coding tools (e.g., GitHub Copilot, Codex, Claude, or similar); \u2022 Ability to work with legacy codebases and contribute to their evolution through innovative, AI-driven approaches;",
+    "label": "python jobs"
+  },
+  {
+    "text": "YO IT Consulting \u2022 3+ years of professional experience as a backend developer, with strong expertise in Python. \u2022 Proficient in building and maintaining RESTful and GraphQL APIs. \u2022 Advanced understanding of backend data validation, error handling, and API security. \u2022 Hands-on experience with database migrations, performance tuning, and schema design.",
+    "label": "python jobs"
+  },
+  {
+    "text": "Zenithbyte \u2022 Currently pursuing or recently completed a degree in Computer Science, Information Technology, or a related field. \u2022 Strong understanding of Python fundamentals and Object-Oriented Programming (OOP). \u2022 Passion for software development and problem-solving. Required Skills \u2022 Python \u2022 Object-Oriented Programming (OOP) \u2022 SQL (Basic) \u2022 REST APIs \u2022 Git/GitHub",
+    "label": "python jobs"
+  },
+  {
+    "text": "micro1 \u2022 3+ years of professional experience as a backend developer, with strong expertise in Python. \u2022 Proficient in building and maintaining RESTful and GraphQL APIs. \u2022 Advanced understanding of backend data validation, error handling, and API security. \u2022 Hands-on experience with database migrations, performance tuning, and schema design. \u2022 Extensive use of AI tools for coding; familiarity with Cursor is highly desirable. \u2022 Outstanding written and verbal communication skills, with a knack for clear incident and bug reporting.",
+    "label": "python jobs"
+  },
+  {
+    "text": "payabl. \u2022 Python Expertise: 3+ years of backend development experience with Python \u2022 Orchestration Exposure: Familiarity or hands-on experience with orchestration tools like Airflow or Prefect \u2022 AWS Fundamentals: Exposure to AWS services such as S3 and Lambda \u2022 Databases: Experience with relational databases, specifically MySQL \u2022 Clean Code: You write intentional, human-readable code and can explain your implementation choices without relying on AI",
+    "label": "python jobs"
+  }
+]
